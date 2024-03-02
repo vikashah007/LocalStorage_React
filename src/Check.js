@@ -14,6 +14,7 @@ const Check = () => {
       <p>{a.usertype}</p>
       <p>{a.token}</p>
       <p>{a.data}</p>
+     
       
     </div>
   )
